@@ -69,4 +69,4 @@ print("Area of a triangle:", t.area())
 <img width="691" height="320" alt="image" src="https://github.com/user-attachments/assets/923daad8-844e-4dbd-872c-ca4be4917632" />
 
 ## Result
-Thus the python program To create an abstract class named Shape with an abstract method calculate_area, and implement this method in two subclasses: Rectangle and Circle is done and output is verified
+Thus the python program To create an abstract class named Shape with an abstract method calculate_area, and implement this method in two subclasses: Rectangle and Circle is done and output is verified.
